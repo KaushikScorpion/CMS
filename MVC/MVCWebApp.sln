@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CMS_mvc", "CMS_mvc", "{98F8AAC4-6DA0-40BE-99B7-6047C15CCCF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMS_mvc", "CMS_mvc\CMS_mvc.csproj", "{0724A46E-0F64-4B3E-9037-71181B09C5CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0724A46E-0F64-4B3E-9037-71181B09C5CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0724A46E-0F64-4B3E-9037-71181B09C5CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0724A46E-0F64-4B3E-9037-71181B09C5CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0724A46E-0F64-4B3E-9037-71181B09C5CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0724A46E-0F64-4B3E-9037-71181B09C5CA} = {98F8AAC4-6DA0-40BE-99B7-6047C15CCCF6}
+	EndGlobalSection
+EndGlobal
